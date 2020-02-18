@@ -163,34 +163,8 @@ nav {
     float: none;
     position: relative;
     top: 100px;
-
  }
  
  /* media queries */
 
  @media screen and (max-width:1335px) {
-     nav {
-         width: 100%;
-     }
-
-
-     li {
-         width: auto 100%;
-     }
-
-     body {
-         width: 100%
-     };
-
-     section {
-         width: 100%;
-     }
-
-     img {
-         width: auto 100%;
-     };
-
-     h1 {
-         width: auto 100%;
-     }
- }
